@@ -1,0 +1,10 @@
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\bin\Debug\Rechnung Program.exe.config
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\bin\Debug\Rechnung Program.exe
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\bin\Debug\Rechnung Program.pdb
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\obj\Debug\Rechnung Program.csproj.AssemblyReference.cache
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\obj\Debug\Rechnung_Program.Form1.resources
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\obj\Debug\Rechnung_Program.Properties.Resources.resources
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\obj\Debug\Rechnung Program.csproj.GenerateResource.cache
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\obj\Debug\Rechnung Program.csproj.CoreCompileInputs.cache
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\obj\Debug\Rechnung Program.exe
+C:\Users\ngero\source\repos\Rechnung Program\Rechnung Program\obj\Debug\Rechnung Program.pdb
